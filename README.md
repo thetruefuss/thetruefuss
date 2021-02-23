@@ -5,7 +5,7 @@
 <hr />
 <p align="center">
   Find me online:
-  <a href="https://github.com/thetruefuss">Github</a> &bull;
+  <a href="https://github.com/thetruefuss">GitHub</a> &bull;
   <a href="https://www.linkedin.com/in/iamalisaleh">LinkedIn</a> &bull;
   <a href="https://twitter.com/iamalisaleh">Twitter</a> &bull;
   <a href="https://www.facebook.com/iamalisaleh">Facebook</a> &bull;
