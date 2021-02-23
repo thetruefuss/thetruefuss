@@ -5,10 +5,10 @@
 <hr />
 <p align="center">
   Find me online:
-  <a href="https://github.com/thetruefuss">Github</a> /
-  <a href="https://www.linkedin.com/in/iamalisaleh">LinkedIn</a> /
-  <a href="https://twitter.com/iamalisaleh">Twitter</a> /
-  <a href="https://www.facebook.com/iamalisaleh">Facebook</a> /
+  <a href="https://github.com/thetruefuss">Github</a> &bull;
+  <a href="https://www.linkedin.com/in/iamalisaleh">LinkedIn</a> &bull;
+  <a href="https://twitter.com/iamalisaleh">Twitter</a> &bull;
+  <a href="https://www.facebook.com/iamalisaleh">Facebook</a> &bull;
   <a href="https://www.instagram.com/iamalisaleh">Instagram</a>
 </p>
 <hr />
