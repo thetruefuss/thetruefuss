@@ -1,8 +1,6 @@
-<h4>bonjour 👋</h4>
+<h3>Bonjour 👋</h3>
 
-<p>
-  i'm an enthusiastic full stack web developer with 4+ years of experience in application layers, presentation layers, and databases. i've developed modern web apps (SPAs & PWAs) using modern tech stacks. i've spearheaded development of many web & mobile apps with a secure, readable & scalable code infrastructure. i excel in every stage of the life cycle of software development, including design creation, coding, debugging, testing, and maintenance.
-</p>
+<p>I'm an enthusiastic full-stack web developer with 5+ years of experience in application layers, presentation layers, and databases. I've developed modern web apps (SPAs & PWAs) using modern tech stacks. I've spearheaded the development of many web & mobile apps with a secure, readable & scalable code infrastructure. I excel in every stage of the life cycle of software development, including design creation, coding, debugging, testing, and maintenance. I've got a keen interest in big data & its ecosystem.</p>
 
 <hr />
 <p align="center">
@@ -15,12 +13,6 @@
 </p>
 <hr />
 
-<p>
-  you can visit <a href="https://thetruefuss.github.io/portfolio">my portfolio</a> 
-  for finding more relevant information about my work experience, past projects & coding skill set.
-</p>
+<p>You can visit <a href="https://thetruefuss.github.io/portfolio">my portfolio</a> for finding more relevant information about my work experience, past projects & coding skillset.</p>
 
-<p>
-  if you want to get in touch with me, my email address is <a href="mailto:alisheikh1114@gmail.com">alisheikh1114@gmail.com</a>.
-  if you are looking for my cv, you can find it on my <a href="https://www.linkedin.com/in/iamalisaleh">linkedin</a>.
-</p>
+<p>If you want to get in touch with me, my email address is <a href="mailto:alisheikh1114@gmail.com">alisheikh1114@gmail.com</a>. If you are looking for my cv, you can find it on my <a href="https://www.linkedin.com/in/iamalisaleh">Linkedin</a>.</p>
